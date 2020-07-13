@@ -35,3 +35,6 @@ git merge theNameOfBranch
 //to push to github
 (after you add and commit everything that you want to push type)
 git push
+
+//if you want to pull changes
+git pull
