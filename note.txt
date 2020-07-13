@@ -1,5 +1,19 @@
 Hello world!
-this is an update
-I dont think that this worked
-so I am going to try it again
 
+//to initialize a directory to git, type the line below in the directory
+git init
+
+//to add a file
+git add fileName
+
+//to add all of the files in the directory
+git add .
+
+//to se the status
+git status
+
+//to comit and add comments through an editing stage
+git commit
+
+//to skip th editing stage
+git commit -m 'write the comment in these quotes'
