@@ -28,4 +28,7 @@ git branch theNameOfBranch
 //to switch branches
 git checkout theNameOfBranch
 
+//to merge a branch to the master
+(from the master type)
+git merge theNameOfBranch
 
