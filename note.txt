@@ -22,4 +22,10 @@ git commit
 //to skip th editing stage
 git commit -m 'write the comment in these quotes'
 
+//to add a branch
+git branch theNameOfBranch
+
+//to switch branches
+git checkout theNameOfBranch
+
 
